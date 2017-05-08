@@ -27,7 +27,7 @@ We’d like you to build simple REST API for us - a basic movie database interac
 * Usage of latest ECMAScript standard and features is encouraged.
 * You are free to write your solution using framework, libraries and database of your choice - sharing your reasoning behind choosing them is welcome!
 * At least basic tests of endpoints and their functionality are obligatory. Their exact scope and form is left up to you.
-* Remember to include README file or at least basic notes on application requirements and setup - we should be able to easily and quickly get it running ourselves.
+* The application's code should be kept in a public repository so that we can read it, pull it and build it ourselves. Remember to include README file or at least basic notes on application requirements and setup - we should be able to easily and quickly get it running.
 * Written application must be hosted and publicly available for us online - we recommend [Heroku](https://heroku.com).
 
 **Good luck! If you have any questions feel free to ping us!**
