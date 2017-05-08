@@ -29,5 +29,6 @@ We’d like you to build simple REST API for us - a basic movie database interac
 * At least basic tests of endpoints and their functionality are obligatory. Their exact scope and form is left up to you.
 * Remember to include README file or at least basic notes on application requirements and setup - we should be able to easily and quickly get it running ourselves.
 * Written application must be hosted and publicly available for us online - we recommend [Heroku](https://heroku.com).
+* The application's code should be kept in a public repository so that we can read it, pull it and build it ourselves.
 
 **Good luck! If you have any questions feel free to ping us!**
